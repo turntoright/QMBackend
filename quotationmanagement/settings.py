@@ -59,8 +59,6 @@ MIDDLEWARE = [
 #     "http://127.0.0.1:8080",
 # ]
 
-ALLOWED_HOSTS = []
-
 CORS_ORIGIN_ALLOW_ALL = True
 
 CORS_URLS_REGEX = r'^/api/.*$'
